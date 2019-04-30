@@ -11,7 +11,7 @@ namespace JWTAuthentication.API.Services
     public static class SendGridMailing
     {
         //sendGrid API Key
-        private const string _sendGridAPiKey = "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";
+        private const string _sendGridAPiKey = "";
         private const string _sentFromEmail = "tahainfo@yahoo.fr";
         private const string _sentFromName = "TAHA BEN AMMAR";
 
